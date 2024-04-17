@@ -21,3 +21,4 @@
   d  ^D             *  Forward  one half-window (and set half-window to _N).
   u  ^U             *  Backward one half-window (and set half-window to _N).
   ESC-)  RightArrow *  Right one half screen width (or _N positions).
+hxjhshs
